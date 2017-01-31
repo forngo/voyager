@@ -1,5 +1,5 @@
 {
-    "name": "tcg/voyager",
+    "name": "forngo/voyager",
     "description": "A Laravel Admin Package for The Control Group to make your life easier and steer your project in the right direction",
     "keywords": ["laravel", "admin", "panel"],
     "license": "MIT",
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "illuminate/support": "5.3.*",
+        "illuminate/support": "5.4.*",
         "intervention/image": "^2.3",
         "doctrine/dbal": "^2.5",
         "larapack/doctrine-support": "^0.1.0"
